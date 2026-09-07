@@ -1,5 +1,5 @@
 # Dispatch-Prioritization-Tool
-A scoring based dispatch prioritization model that replaces first come first served queuing, simulated with Pandas, reduced emergency SLA breaches from 35% to 0%
+A scoring based dispatch prioritization model that replaces first come first served queuing, simulated with Pandas, reduced emergency SLA breaches from 35% to 0%.
 A small product case study: identifying a real operational problem from dispatch
 experience, defining a scoring-based solution, and measuring its impact through
 simulation.
